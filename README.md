@@ -115,3 +115,4 @@ Privaxy is also way more capable than DNS-based blockers as it is able to operat
 - Around 50MB of memory with approximately 320 000 filters enabled.
 
 - Able to filter thousands of requests per second on a small machine.
+
